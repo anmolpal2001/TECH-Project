@@ -292,7 +292,7 @@ section .title::after{
  
 }
 .tasks .title::after {
-    content: "what i have done";
+    content: "done by me";
 }
 .tasks .tasks-content .card{
     width: calc(33% - 20px);
